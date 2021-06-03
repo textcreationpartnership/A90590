@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the inhabitants of Cyrencester, whose names are hereunto subscribed. Presented to His Majesty at Oxford. With His Majesties answer therunto.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90590</idno><idno type="EEBO-CITATION">99873506</idno>
+  <idno type="VID">155755</idno>
+  <idno type="EEBO-PROQUEST">2240952365</idno>
+  
+            <idno type="STC">Wing P1801</idno>
+            <idno type="STC">Thomason E92_9</idno>
+            <idno type="STC">ESTC R9233</idno>
+            <idno type="PROQUEST">99873506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873506e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155755)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the inhabitants of Cyrencester, whose names are hereunto subscribed. Presented to His Majesty at Oxford. With His Majesties answer therunto.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I) aut</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by His Majesties command at Oxford [i.e. London], Febr. 28. By Leonard Lichfield, Printer to the University,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed by forty six men, p. 3.</note>
+                  <note>A London counterfeit. -- cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "March. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Cirencester (Gloucestershire) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155755:1"/>
+            <p>THE PETITION OF THE Inhabitants of CYRENCESTER, whose names are hereunto subscribed.</p>
+            <p>Presented to His MAJESTY at <hi>OXFORD.</hi>
+            </p>
+            <p>WITH <hi>HIS MAJESTIES</hi> Answer thereunto.</p>
+            <p>Printed, by His MAjESTIES command At <hi>OXFORD, Febr.</hi> 28.</p>
+            <p>By LEONARD LICHFIELD, Printer <hi>to the Ʋniversity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_king">
+            <pb facs="tcp:155755:2"/>
+            <pb n="1" facs="tcp:155755:2"/>
+            <head type="sub">TO THE KING'S MOST EXCELLENT MAJESTY.</head>
+            <head>The humble Petition of the Inhabitants of <hi>CYRENCESTER.</hi>
+            </head>
+            <opener>
+               <salute>Dread Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE Your poore Subjects the In<g ref="char:EOLhyphen"/>habitants of the miserable distres<g ref="char:EOLhyphen"/>sed <hi>Cyrencester,</hi> having under<g ref="char:EOLhyphen"/>gone all the heavy effects of Your <hi>Majesties</hi> justly incensed Army, doe prostrate our selves at Your <hi>Majesties</hi> feet, not to excuse, or in the least measure to extenuate our ill-deser<g ref="char:EOLhyphen"/>vings. We acknowledge us inexcusably faulty, but to appeale unto Your mercy, and to beg Your pardon, That as we have been through all Your Kingdomes the first example of Your justly de<g ref="char:EOLhyphen"/>served
+<pb n="2" facs="tcp:155755:3"/> Rigor, and the terrour thereof working its due effect upon all others, to deterre them from provoking Your like displeasure, we may re<g ref="char:EOLhyphen"/>maine Your most remarkable object of Your mercy, the most glorious and resplendent Gemme of Your Crowne. Oh, Sir, the God of Hea<g ref="char:EOLhyphen"/>ven hath given You unto us our God upon the Earth. We have grievously sinned against him by our undutifull carriage against You His Vice<g ref="char:EOLhyphen"/>gerent. Behold us now lying before you, ac<g ref="char:EOLhyphen"/>knowledging, and from our hearts detesting the foulnesse of our offence, and our selves for com<g ref="char:EOLhyphen"/>mitting it, And most humbly beseeching Your <hi>Majesty</hi> in imitation of that Divine vertue, the most lively character of his Image in You, to Pardon us, and to receive us into Your protecti<g ref="char:EOLhyphen"/>on. In the assurance whereof, we may securely re<g ref="char:EOLhyphen"/>turne to, and abide at our severall homes, begin to goe on in our former Trades and Occupati<g ref="char:EOLhyphen"/>ons, and, by Gods good blessing upon us, in the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> many hundreds of People of our Towne and ad<g ref="char:EOLhyphen"/>joyning parts of the County, who have no other livelihood, may be againe set on worke and relieved, and we may have the hope in time, upon our after care, to endeavour to expresse the sincerity of our true returne to the Duties of our
+<pb n="3" facs="tcp:155755:3"/> Allegiance, to joy in the rec<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very of Your wonted Favour, and all of us, all our lives long, and our posterity after us, bound to acknowledge the height of Your mercy, to pray to Almighty God to blesse Your <hi>Majesty</hi> with all the happinesse which he hath promised in his sacred Word, to all that shall shew mercy.</p>
+            <list>
+               <item>ANdrew Sollace.</item>
+               <item>Row. Freeman.</item>
+               <item>Robert Iles.</item>
+               <item>Thomas Dutton.</item>
+               <item>William Willis.</item>
+               <item>Edmund Freeman.</item>
+               <item>William Taylor.</item>
+               <item>George Stone.</item>
+               <item>Amos D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsey.</item>
+               <item>Virgill Crippes▪</item>
+               <item>Thomas Gibbes.</item>
+               <item>More Gwilliam.</item>
+               <item>Edward C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>William Chance.</item>
+               <item>John Beaton.</item>
+               <item>Edmund Feribee.</item>
+               <item>Michaell Sharp.</item>
+               <item>William Groves.</item>
+               <item>Thomas Man.</item>
+               <item>John Portlocke.</item>
+               <item>John Batt.</item>
+               <item>Richard Aucutt.</item>
+               <item>Edward Prat.</item>
+               <item>Iohn Kerby.</item>
+               <item>Thomas T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pping.</item>
+               <item>Iohn Petty.</item>
+               <item>Iames Armand.</item>
+               <item>Thomas Maysey.</item>
+               <item>Richard M<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thew.</item>
+               <item>Iohn Flacher.</item>
+               <item>Richard Sollace.</item>
+               <item>Thomas Man.</item>
+               <item>Thomas Cartor.</item>
+               <item>Edward Scovell.</item>
+               <item>Richard Masters.</item>
+               <item>Iohn Francklin.</item>
+               <item>Walter Portlocks.</item>
+               <item>Richard Evans.</item>
+               <item>Iames Burge.</item>
+               <item>Thomas Allen.</item>
+               <item>Samuel Spencer.</item>
+               <item>Henry Webb.</item>
+               <item>Richard Man.</item>
+               <item>William Burge.</item>
+               <item>Michael Hartred.</item>
+               <item>George Lawrence.</item>
+            </list>
+         </div>
+         <div type="response_to_petition">
+            <pb n="4" facs="tcp:155755:4"/>
+            <head>HIS MAJESTIES Gracious Answer to the fore-going PETITION.</head>
+            <opener>
+               <dateline>
+                  <hi>At the Court at</hi> Oxford, <date>
+                     <hi>the 25. day of February,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is MAjESTY graciously accepts the submission of the Petitioners, and is Himself sorry that the Re<g ref="char:EOLhyphen"/>bellion and disloyalty of that place hath brought so great a measure of sufferings upon any of His Subjects; which was not in His Maje<g ref="char:EOLhyphen"/>sties power to prevent. He is well pleased that all the Inhabitants of that Towne of <hi>Cyrencester</hi> return safely to their houses, and
+<pb n="5" facs="tcp:155755:4"/> live securely in them, from all violence by any of His Majesties Souldiers, that the Trade and Wealth of that place may (by Gods blessing) be againe renewed. And His Majesties Will is, and doth hereby give precise Order, that no violence or injury be henceforward offered by any of His Ma<g ref="char:EOLhyphen"/>jesties Garrison or Souldiers to the Peti<g ref="char:EOLhyphen"/>tioners, or any the Inhabitants of <hi>Cyrence<g ref="char:EOLhyphen"/>ster,</hi> they demeaning themselves with that duty and obedience to his Majesties just and necessary Commands, as the condition of the present time, and his Majesties ne<g ref="char:EOLhyphen"/>cessities require. And his Majesties expresse Command is, That the Governour of <hi>Cy<g ref="char:EOLhyphen"/>rencester</hi> for the time being, and all other, his Majesties Officers and Souldiers of that his garrison, take order and conform them<g ref="char:EOLhyphen"/>selves accordingly.</p>
+            <closer>
+               <signed>EDW. NICHOLAS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
